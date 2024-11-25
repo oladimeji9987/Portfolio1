@@ -1,0 +1,150 @@
+*{
+    background-color: black;
+    color: skyblue;
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-bottom: 1px solid gray;
+    gap: 30px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+.links{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.abt{
+    /* width: 80%; */
+    /* border: 1px solid; */
+    /* align-items: center;
+    align-content: center;
+    justify-content: center; */
+    text-align: center;
+    /* display: flex; */
+    padding: 0;
+    border-bottom: 0.5px solid gray;
+    padding-bottom: 20px;
+    
+}
+.abt img{
+    margin-top: 50px;
+    border: 5px solid;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.abt button{
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: lightblue;
+    color: black;
+    cursor: pointer;
+    height: 30px;
+    text-decoration: none;
+    margin-top: 0;
+}
+
+.me{
+    margin-top: 50px;
+}
+
+.exp{
+    /* border: 1px solid; */
+    text-align: center;
+    /* display: flex; */
+    margin-top: 80px;
+    border-bottom: 0.5px solid gray;
+    padding-bottom: 20px;
+}
+
+.exp img{
+    border: none;
+    justify-content: space-between;
+    margin: 20px 20px;
+    height: 60px;
+    width: 60px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.pro{
+    /* border: 1px solid; */
+    text-align: center;
+}
+
+.pro img{
+    border: 1px solid;
+    margin: 25px;
+    height: 220px;
+    width: 250px;
+    margin-top: 10px;
+}
+
+.fig{
+    /* border: 1px solid; */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.connect{
+    /* border: 1px solid; */
+    text-align: center;
+    margin-top: 100px;
+}
+
+.connect img{
+    /* border: 1px solid; */
+    justify-content: space-between;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+.come{
+    border: 1px solid;
+    text-align: center;
+    font-size: x-large;
+}
+
+
+.navBar a{
+    text-decoration: none;
+}
+
+@media (max-width:550px) {
+    .links{
+        display: none;
+    }
+}
+
+@media (max-width:430px) {
+    #name{
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 540px) {
+    .pro img, figure{
+        display: flex;
+        flex-direction: column;
+        height: 120px;
+        width: 150px;
+        h1, h2{
+            font-size: 18px;
+        }
+    }
+    
+}
