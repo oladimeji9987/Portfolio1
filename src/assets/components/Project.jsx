@@ -12,7 +12,7 @@ const Project = ()=>{
                 <figure>
                     <a href="https://furniros.vercel.app/"><img src={image1} alt="" /></a>
                     <figcaption>Built with html and css. <br />This project showcases the beginning 
-                    of a delightful career in software development. The design <br />
+                    of a delightful <br />career in software development. The design <br />
                     is the UI of a furniture/interior design website(Furniro).</figcaption>
                 </figure>
                 <figure>

@@ -87,7 +87,11 @@
 .pro{
     /* border: 1px solid; */
     text-align: center;
+    justify-content: space-between;
+
 }
+
+
 
 .pro img{
     border: 1px solid;
