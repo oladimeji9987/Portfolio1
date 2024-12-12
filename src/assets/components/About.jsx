@@ -2,7 +2,7 @@ import Image1 from "./images/Portfolio 2.jpg"
 const About = ()=>{
     return (
         <div className="abt">
-            <div><h3 className="me">ABOUT ME <br /><p>Hi, I am a frontend developer based in Lagos <br />and I have a background in Mathematics Education <br />
+            <div><h3 className="me">ABOUT ME <br /><p>Hi, I am a fullstack software developer based in Lagos <br />and I have a background in Mathematics Education <br />
              from University of Ibadan. I am looking for exciting opportunities <br /> where I can showcase my skills and continue to learn. <br />Passionate and curious about solving critical problems, 
              <br />while focusing on interactivity and accessibility when coding. 
              <br />I'm currently exploring content writing and digital marketing <br />
