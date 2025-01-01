@@ -7,7 +7,7 @@ const About = ()=>{
              <br />while focusing on interactivity and accessibility when coding. 
              <br />I'm currently exploring content writing and digital marketing <br />
              when I'm not coding. I enjoy coding, playing football, writing and travelling.</p></h3><br />
-            <a href="http://bit.ly/3YBvNdX"><button>Download my CV</button></a></div>
+            <a href="http://bit.ly/3YBvNdX"><button>Download my resume</button></a></div>
 
             <div><img src={Image1} alt="" /></div>
         </div>
