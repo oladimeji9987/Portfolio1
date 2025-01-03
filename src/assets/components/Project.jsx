@@ -17,14 +17,14 @@ const Project = ()=>{
                 </figure>
                 <figure>
                     <a href="https://nextcent-pi.vercel.app/"><img src={image2} alt="" /></a>
-                    <figcaption>This project was completed with html and css. <br />
+                    <figcaption>This project was completed using html and css. <br />
                     It was built to highlight the skills learnt <br />in html and css and also to understand what <br />
                     a user interface(UI) looks like.</figcaption>
                 </figure>
                 <figure>
                     <a href="https://countries-blond-kappa.vercel.app/"><img src={image3} alt="" /></a>
                     <figcaption>This project was completed with html, css,<br /> and javascript. 
-                    It is a project that allows you to <br />select any country in the world either by region <br />
+                    It is a project that allows you to <br />select a country in the world either by region <br />
                     or by name. After entering your selection, it displays <br />the demographic information of the selected country.</figcaption>
                 </figure>
             </div>
